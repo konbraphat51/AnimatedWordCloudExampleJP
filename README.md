@@ -2,7 +2,7 @@
 弊ライブラリ[AnimatedWordCloud](https://github.com/konbraphat51/AnimatedWordCloud)使用例
 
 ## Qiita人気タグ遷移
-![output](https://github.com/konbraphat51/AnimatedWordCloudExampleJP/assets/101827492/eb850b17-35a3-476c-8574-0ba0abacdbc2)
+![output (2)](https://github.com/konbraphat51/AnimatedWordCloudExampleJP/assets/101827492/fd555dca-39b6-4b69-8482-e6295621c26e)
 
 ## ニコニコ動画人気タグ遷移
 [ニコニコデータセット](https://www.nii.ac.jp/dsc/idr/nico/)を使用  
